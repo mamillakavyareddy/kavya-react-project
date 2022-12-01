@@ -3,7 +3,7 @@ import { Button, DatePicker, Space, version } from 'antd';
 import { Steps } from 'antd';
 import { Divider } from 'antd';
 import 'antd/dist/antd.css';
-import './style.css';
+
 
 const { Step } = Steps;
 function App() {
